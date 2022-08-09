@@ -1,5 +1,5 @@
 ## Setup the game:
 
-- pipenv install
+- pipenv install   or   pip install --user pipenv
 - pipenv shell
 - python main.py
